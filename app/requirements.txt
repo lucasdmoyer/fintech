@@ -1,0 +1,12 @@
+fastapi
+numpy
+pandas
+uvicorn
+gunicorn
+uvloop
+yahoofinancials
+pandas-datareader
+tqdm
+python-multipart
+httptools
+scipy
